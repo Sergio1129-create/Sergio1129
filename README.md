@@ -86,8 +86,8 @@
 <h2> 📊 GitHub Stats </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=algolia" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=algolia" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sergio1129&show_icons=true&theme=algolia" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio1129&layout=compact&theme=algolia" height="180px"/>
 </p>
 
 ---
